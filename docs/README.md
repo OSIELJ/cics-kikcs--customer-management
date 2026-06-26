@@ -10,18 +10,24 @@ O sistema implementa uma aplicação online para consulta e atualização de cli
 
 ### 1. Consultando um cliente (PF5)
 ![Consultando um cliente](docs/demo-consulta.gif)
+<img width="722" height="372" alt="1_ TK5 - TN3270 Plus 2026-06-26 04-37-53" src="https://github.com/user-attachments/assets/5975276e-6372-4636-a52c-7fbc1a8f3bcf" />
 
 ### 2. Editando telefone e cidade (PF6)
 ![Editando telefone e cidade](docs/demo-edicao.gif)
+<img width="722" height="372" alt="1_ TK5 - TN3270 Plus 2026-06-26 04-39-46" src="https://github.com/user-attachments/assets/cd2b39a4-adf0-4f36-9bcf-ea968d0a0280" />
 
 ### 3. Confirmando a alteração — novo acesso ao KICKS
 ![Confirmando a alteração](docs/demo-confirmacao.gif)
+<img width="722" height="372" alt="1_ TK5 - TN3270 Plus 2026-06-26 04-40-46" src="https://github.com/user-attachments/assets/684c2cdb-1497-441a-8f46-bb36cc38453c" />
+
 
 ---
 
 ## Tela do Sistema
 
-> *Coloque aqui um print da tela principal do sistema*
+><img width="1914" height="1029" alt="Captura de tela 2026-06-26 044149" src="https://github.com/user-attachments/assets/e51dff78-0981-4d68-8fca-35da5eeaa56d" />
+
+
 
 ---
 
